@@ -1,0 +1,21 @@
+body {
+  font-family: Georgia, Times, Times New Roman, serif;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  background-color: #ccefff;
+  color: black;
+  padding: 5px 15px;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    display: inline-block;
+     text-align: center;
+    background-color: #99dfff;
+    color: black;
+    padding: 5px 15px;
+  }
