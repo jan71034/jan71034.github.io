@@ -11,5 +11,68 @@
     <title>Community Involvement</title>
     </head>
     <body>
+    <h2 style="text-align:center;">Community Involvement</h2>
+
+    <p style="text-align:center;"><img src="work.jpg" alt="work" width="1000px" height="200px" align="middle"> </p>
+
+  <table>
+
+    <tr>
+
+      <th>Company</th>
+
+      <th>Role</th>
+
+      <th>Duration</th>
+
+      <th>Description</th>
+
+    </tr>
+
+    <tr>
+
+      <td>Procurement Advisors, Atlanta, GA</td>
+
+      <td>Summer Intern, Corporate Analysis Team</td>
+
+      <td>May-July 2018</td>
+
+      <td><ul style="list-style-type:square">
+
+        <li>Collaborated on innovative artificial intelligence interface</li>
+
+        <li>Analyzed data to find problem areas of spend and developed ways to mitigate loss and encourage profit</li>
+
+        <li>Spearheaded data organization and representation project</li></ul>
+
+        </td>
+
+    <tr>
+
+      <td>Gaskins Surveying, Marietta, GA</td>
+
+      <td>Civil Engineering Intern</td>
+
+      <td>May-July 2017</td>
+
+      <td><ul style="list-style-type:square">
+
+        <li>Collaborated on several large-scale neighborhood projects, as well as many single residential plans</li>
+
+        <li>Developed an organizational method for past, present, and future plans</li>
+
+        <li>Engaged in field activities to ensure project readiness</li></ul>
+
+      </td>
+
+        
+
+    </table>
+
+  
+
+        <hr>
+
+  <a href="http://jan71034.github.io">Return Home</a>
     
     </html>
