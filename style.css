@@ -31,3 +31,25 @@ div {
 ul {
   list-style-type: none;
 }
+
+button:link, button:visited {
+ type="button" 
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  background-color: #ccefff;
+  color: black;
+  padding: 5px 15px;
+  border: 1px solid black
+}
+
+button:hover {
+  type="button"
+  text-decoration: none;
+    display: inline-block;
+     text-align: center;
+    background-color: #99dfff;
+    color: black;
+    padding: 5px 15px;
+    border: 1px solid black;
+}
