@@ -1,78 +1,40 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"  "http://www.w3.org/TR/html4/strict.dtd"> 
-
 <html>
-
 <head>
-
   <META http-equiv="Content-Type" content="text/html;charset=ISO8859-1"> 
-
   <link rel="stylesheet" href="style.css">
-
     <title>Community Involvement</title>
     </head>
     <body>
     <h2 style="text-align:center;">Community Involvement</h2>
-
     <p style="text-align:center;"><img src="community.jpg" alt="Community" width="1000px" height="200px" align="middle"> </p>
-
   <table>
-
     <tr>
-
       <th>Organization</th>
-
       <th>Role</th>
-
       <th>Duration</th>
-
       <th>Description</th>
-
     </tr>
-
     <tr>
-
       <td>UGA Wesley Foundation, Crosstrainers</td>
-
       <td>Leadership Team & Mentor</td>
-
       <td>May 2017-Present</td>
-
       <td><ul style="list-style-type:square">
-
         <li>Selected as one of approximately 45 students for a leadership role out of hundreds of students in the program</li>
-
         <li>Organized and executed events for hundreds of students and children</li>
-
         <li>Mentored a sixth grader and aided him in developing strong character traits</li></ul>
-
         </td></tr>
-
     <tr>
-
       <td>The Real Movement, Athens Campus</td>
-
       <td>Prayer Team and Food Team</td>
-
       <td>August 2017-Present</td>
-
       <td><ul style="list-style-type:square">
-
         <li>Chosen as one of approximately 15 members to assist staff members in the specific areas of prayer and providing food for community gatherings</li>
-
         <li>Prepared the venue for gatherings and facilitated authenticity through community building exercises and discussions</li>
-
         </ul>
-
-      </td></tr>
-
-        
-
+      </td></tr>     
     </table>
-
-  
-
         <hr>
-
   <a href="http://jan71034.github.io">Return Home</a>
-    
+  </body>
     </html>
