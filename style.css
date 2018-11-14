@@ -40,7 +40,8 @@ button:link, button:visited, button {
   background-color: #ccefff;
   color: black;
   padding: 5px 15px;
-  border: 1px solid black
+  border: 1px solid black;
+    font-family: Georgia, Times, Times New Roman, serif;
 }
 
 button:hover {
@@ -52,4 +53,5 @@ button:hover {
     color: black;
     padding: 5px 15px;
     border: 1px solid black;
+  font-family: Georgia, Times, Times New Roman, serif;
 }
