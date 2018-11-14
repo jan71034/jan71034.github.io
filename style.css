@@ -32,7 +32,7 @@ ul {
   list-style-type: none;
 }
 
-button:link, button:visited {
+button:link, button:visited, button {
  type="button" 
   text-decoration: none;
   display: inline-block;
